@@ -28,5 +28,6 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=RafaelJesus22&show_icons=true&theme=vision-friendly-dark" alt="Rafael's stats"/>
+<br>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelJesus22&layout=compact&theme=vision-friendly-dark" alt="Rafael's most languages"/>
 </p>
