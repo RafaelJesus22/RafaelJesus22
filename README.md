@@ -31,3 +31,15 @@
 <br>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelJesus22&layout=compact&theme=vision-friendly-dark" alt="Rafael's most languages"/>
 </p>
+
+## Visitas no pefil - Atividade
+
+<!-- visitors count  -->
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/RafaelJesus22/count.svg" />  
+</p>
+
+<!-- github workflow  -->
+
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/RafaelJesus22/RafaelJesus22/output/github-contribution-grid-snake.svg)
