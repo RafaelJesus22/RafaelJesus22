@@ -34,6 +34,4 @@
 
 ![Snake animation](https://github.com/RafaelJesus22/RafaelJesus22/blob/output/github-contribution-grid-snake.svg)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RafaelJesus22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
