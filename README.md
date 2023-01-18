@@ -12,6 +12,10 @@
 
 <br>
 
+![Snake animation](https://github.com/RafaelJesus22/RafaelJesus22/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -31,7 +35,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RafaelJesus22&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelJesus22&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-![Snake animation](https://github.com/RafaelJesus22/RafaelJesus22/blob/output/github-contribution-grid-snake.svg)
 
 
