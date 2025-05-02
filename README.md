@@ -5,15 +5,10 @@
 
 ## 💫 About Me:
 
-<br>
 🔥 Mobile and Web Developer<br>
 🔭 I’m currently working at Jazz Tech<br>
 🌱 I’m currently learning Angular and Swift<br>
 💬 Ask me about JavaScript, TypeScript, React, Next.js and React Native<br>
-
-<br>
-
-<!-- ![Snake animation](https://github.com/RafaelJesus22/RafaelJesus22/blob/output/github-contribution-grid-snake.svg) -->
 
 <br>
 
