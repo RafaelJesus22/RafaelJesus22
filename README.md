@@ -8,9 +8,8 @@
 <br>
 🔥 Mobile and Web Developer<br>
 🔭 I’m currently working at Jazz Tech<br>
-🌱 I’m currently learning Flutter<br>
-💬 Ask me about JavaScript, TypeScript, React and React Native<br>
-⚡ I used to hate JavaScript
+🌱 I’m currently learning Angular and Swift<br>
+💬 Ask me about JavaScript, TypeScript, React, Next.js and React Native<br>
 
 <br>
 
